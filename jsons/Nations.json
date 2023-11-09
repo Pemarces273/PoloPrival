@@ -76,20 +76,20 @@
 		"declaringWar": "This nation is at war with another nation.",
 		"attacked": "Stop facing in my direction!",
 		"defeated": "I'm gonna shove this (holds weapon) up your asshole!",
-		"introduction": "Don't bother, please.",
+		"introduction": "I hope you cease from existence.",
 		
-		"neutralHello": "Greetings!",
-		"neutralLetsHearIt": ["Please continue.","Oh?","Let us hear your thoughts."],
-		"neutralNo": ["No.","I'm afraid I would have to disagree.","Simply, I cannot agree with you."],
-		"neutralYes": ["Yes.","Of course, yes.","That is very good."],
+		"neutralHello": "What's good, my n----?",
+		"neutralLetsHearIt": ["What did you just say?." , "I'm all ears".],
+		"neutralNo": ["Did I stutter?" , [In sarcastic tone] "I'm sorry, I didn't think I heard what you said, can you repeat?],
+		"neutralYes": ["Alright.","I'm in.","[In sultry voice] Good, good."],
 
 		"hateHello": "Hey, there",
-		"hateLetsHearIt": ["I'll hear you out.","Don't expect me to agree with you so easily, but continue.","Go on."],
-		"hateNo": ["No.","Hell no.","I beg your pardon?" , "What the f--- did you just say? , "You're a traitor to the Marleyan Empire!"],
-		"hateYes": ["Acceptable.","Good enough.","You'll have to do better than that, but I'll try and give you a chance."],
+		"hateLetsHearIt": ["You got 5 minutes, 10 if I'm in the mood.","Whatever you're saying will enter my left ear and will go out my right one, but I'll hear you out anyway.","Alright, what do you want?."],
+		"hateNo": ["No.","Hell no.","I beg your pardon?" , "What the f--- did you just say? , "You're a traitor to the Marleyan Empire!" , "F--- off, you massive collosal cuntasaurus"],
+		"hateYes": ["Acceptable.","Good enough.","You better be right on this. If not, I will summon the citizen of the Marleyan Empire to c-- on your corpse!." , "This better be a good decision".]
 		
-		"afterPeace": "Thank you, I'm glad you have ceased.",
-		"tradeRequest": "We would like to trade. Would this barter be acceptable?",
+		"afterPeace": "Thank you, finally! Took you long enough, Jesus",
+		"tradeRequest": "We would like to trade. Would this barter be acceptable?", [In Australian accent] "Got something that might interest ya!"
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
