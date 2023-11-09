@@ -26,8 +26,8 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [100,200,200],
+		"outerColor": [255,7,7],
+		"innerColor": [255,231,7],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["rename yazid"]
 	},
