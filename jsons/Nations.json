@@ -70,10 +70,10 @@
 		"adjective": ["Marley"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "Greetings, Traveller.",
-		"startIntroPart2": "Well, it looks like we found another. Hello, we come in peace.",
+		"startIntroPart1": "[In Arabic voice] Welcome, my friend.",
+		"startIntroPart2": "Remember, no witnesses. I mean, hello, we come in peace!",
 		
-		"declaringWar": "Please don't resist. Make this easy for us. Nothing personal.",
+		"declaringWar": "This nation is at war with another nation.",
 		"attacked": "Are you sure you want to do this?",
 		"defeated": "Goddammit... We were too... weak...",
 		"introduction": "Don't bother, please.",
