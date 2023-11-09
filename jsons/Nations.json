@@ -74,8 +74,8 @@
 		"startIntroPart2": "Remember, no witnesses. I mean, hello, we come in peace!",
 		
 		"declaringWar": "This nation is at war with another nation.",
-		"attacked": "Are you sure you want to do this?",
-		"defeated": "Goddammit... We were too... weak...",
+		"attacked": "Stop facing in my direction!",
+		"defeated": "I'm gonna shove this (holds weapon) up your asshole!",
 		"introduction": "Don't bother, please.",
 		
 		"neutralHello": "Greetings!",
@@ -83,9 +83,9 @@
 		"neutralNo": ["No.","I'm afraid I would have to disagree.","Simply, I cannot agree with you."],
 		"neutralYes": ["Yes.","Of course, yes.","That is very good."],
 
-		"hateHello": "Do you need anything?",
+		"hateHello": "Hey, there",
 		"hateLetsHearIt": ["I'll hear you out.","Don't expect me to agree with you so easily, but continue.","Go on."],
-		"hateNo": ["No.","Hell no.","I beg your pardon?"],
+		"hateNo": ["No.","Hell no.","I beg your pardon?" , "What the f--- did you just say? , "You're a traitor to the Marleyan Empire!"],
 		"hateYes": ["Acceptable.","Good enough.","You'll have to do better than that, but I'll try and give you a chance."],
 		
 		"afterPeace": "Thank you, I'm glad you have ceased.",
