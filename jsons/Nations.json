@@ -65,9 +65,9 @@
 	},
 	// here Ammar, edit the details below, in the
 	{
-		"name": "Cynoc",
+		"name": "Marleyan",
 		"leaderName": "PJ",
-		"adjective": ["Cynese"],
+		"adjective": ["Marley"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "Greetings, Traveller.",
