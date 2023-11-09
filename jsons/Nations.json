@@ -62,5 +62,38 @@
 		"innerColor": [255,200,200],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["rename paul"]
+	},
+	// here Ammar, edit the details below, in the
+	{
+		"name": "Cynoc",
+		"leaderName": "PJ",
+		"adjective": ["Cynese"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "Greetings, Traveller.",
+		"startIntroPart2": "Well, it looks like we found another. Hello, we come in peace.",
+		
+		"declaringWar": "Please don't resist. Make this easy for us. Nothing personal.",
+		"attacked": "Are you sure you want to do this?",
+		"defeated": "Goddammit... We were too... weak...",
+		"introduction": "Don't bother, please.",
+		
+		"neutralHello": "Greetings!",
+		"neutralLetsHearIt": ["Please continue.","Oh?","Let us hear your thoughts."],
+		"neutralNo": ["No.","I'm afraid I would have to disagree.","Simply, I cannot agree with you."],
+		"neutralYes": ["Yes.","Of course, yes.","That is very good."],
+
+		"hateHello": "Do you need anything?",
+		"hateLetsHearIt": ["I'll hear you out.","Don't expect me to agree with you so easily, but continue.","Go on."],
+		"hateNo": ["No.","Hell no.","I beg your pardon?"],
+		"hateYes": ["Acceptable.","Good enough.","You'll have to do better than that, but I'll try and give you a chance."],
+		
+		"afterPeace": "Thank you, I'm glad you have ceased.",
+		"tradeRequest": "We would like to trade. Would this barter be acceptable?",
+
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"unique": "MANIFEST_DESTINY",
+		"cities": ["rename paul"]
 	}
 ]
