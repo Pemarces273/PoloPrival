@@ -58,8 +58,8 @@
 		"afterPeace": "Thank you, I'm glad you have ceased.",
 		"tradeRequest": "We would like to trade. Would this barter be acceptable?",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [0,107,107],
+		"innerColor": [255,212,0],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["rename paul"]
 	},
