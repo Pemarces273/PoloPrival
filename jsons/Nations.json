@@ -90,8 +90,8 @@
 		"afterPeace": "Thank you, finally! Took you long enough, Jesus",
 		"tradeRequest": "Got something that might interest ya!",
 
-		"outerColor": [0,107,107],
-		"innerColor": [255,212,0],
+		"outerColor": [55,21,188],
+		"innerColor": [165,199,220],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["rename ammar"]
 	}
