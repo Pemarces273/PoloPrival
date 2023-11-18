@@ -88,7 +88,7 @@
 		"hateYes": ["You better be right on this. If not, I will summon the citizen of the Marleyan Empire to c-- on your corpse!","This better be a good decision."],
 		
 		"afterPeace": "Thank you, finally! Took you long enough, Jesus",
-		"tradeRequest": "Got something that might interest ya!",
+		"tradeRequest": [Australian accent] "Got something that might interest ya!",
 
 		"outerColor": [55,21,188],
 		"innerColor": [165,199,220],
