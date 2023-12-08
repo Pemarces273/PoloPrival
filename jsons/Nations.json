@@ -26,8 +26,8 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [255,7,7],
-		"innerColor": [255,231,7],
+		"outerColor": [26,39,88],
+		"innerColor": [255,255,255],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["rename yazid"]
 	},
@@ -90,8 +90,8 @@
 		"afterPeace": "Thank you, finally! Took you long enough, Jesus",
 		"tradeRequest": "Got something that might interest ya!",
 
-		"outerColor": [55,21,188],
-		"innerColor": [165,199,220],
+		"outerColor": [26,88,26],
+		"innerColor": [255,255,255],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["rename ammar"]
 	}
