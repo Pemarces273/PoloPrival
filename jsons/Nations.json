@@ -32,6 +32,36 @@
 		"cities": ["rename yazid"]
 	},
 	{
+		"name": "Sylveria",
+		"leaderName": "Commander Arina Ekaterina",
+		"adjective": ["Sylverianese"],
+		"preferredVictoryType": "Scientific",
+		
+		"declaringWar": "Today, the great nation of Sylveria has declared war against you, not because we are afraid or threatened, but because we seek to prove our martial might and test our courage in battle. We declare this war for the thrill of it, and for the glory, excitement, and honor that come with it. Let us prove ourselves on the world stage, and let our enemies tremble in fear at the very sound of our name.",
+		"attacked": "How surprising, another attack on our nation. It's almost as if our enemies can't leave us alone and enjoy their own peace and prosperity.",
+		"defeated": "With a heavy heart, I admit to the defeat of our nation in this war. Our enemy has proven too strong and too determined, and despite our best efforts, we must concede and accept the terms of surrender.",
+		"introduction": "Well, look at you. What a quaint little nation you have there, not quite as grand as ours. It must be a challenge leading such a miniscule group of people. I'm surprised your land can even support such a population. Oh well, who am I to judge?",
+		
+		"neutralHello": "Hello, small fry. Oh, I meant hello, you insignificant little insect. Do I have the pleasure of addressing the leader of this insufferable little nation?",
+		"neutralLetsHearIt": "You better have a good reason for wasting our time.",
+		"neutralNo": "Get lost.",
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [49,49,49],
+		"innerColor": [11,107,60],
+		"uniqueName": "Lost Technology",
+		"unique": ["Starts with [Gunpowder]", "[-50]% Gold cost of acquiring tiles [in all cities]", "[+3 Production] [in all cities]", "[+35]% Production when constructing [Culture] wonders [in all cities]",  ] 
+		"cities": ["Drurville","Iyhuacaster", "Dohrough", "Khita", "Jaclens", "Antawood", "Qiediff", "Veville", "Glanta", "Anedon", "Fraka", "Eimsall", "Cragend", "Idogan", "Tradcaster","Krouver", "Oseuby", "Trares", "Oriarith", "Encedon", "Klemouth", "Entoross", "Esabury", "Epeyfield", "Fuibus", "Strumport", "Zochester", "Churg", "Ouissey", "Chuemshire", "Asostead", "Yulbury", "Eyhester", "Moria", "Clison" ]
+	},
+	{
 		"name": "Cynoc",
 		"leaderName": "PJ",
 		"adjective": ["Cynese"],
