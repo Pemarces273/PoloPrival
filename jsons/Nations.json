@@ -58,7 +58,7 @@
 		"outerColor": [49,49,49],
 		"innerColor": [11,107,60],
 		"uniqueName": "Lost Technology",
-		"uniques": ["Starts with [Gunpowder]", "[-50]% Gold cost of acquiring tiles [in all cities]", "[+3 Production] [in all cities]", "[+35]% Production when constructing [Culture] wonders [in all cities]"] 
+		"uniques": ["[-50]% Gold cost of acquiring tiles [in all cities]", "[+3 Production] [in all cities]", "[+35]% Production when constructing [Culture] wonders [in all cities]"] 
 		"cities": ["Drurville","Iyhuacaster", "Dohrough", "Khita", "Jaclens", "Antawood", "Qiediff", "Veville", "Glanta", "Anedon", "Fraka", "Eimsall", "Cragend", "Idogan", "Tradcaster","Krouver", "Oseuby", "Trares", "Oriarith", "Encedon", "Klemouth", "Entoross", "Esabury", "Epeyfield", "Fuibus", "Strumport", "Zochester", "Churg", "Ouissey", "Chuemshire", "Asostead", "Yulbury", "Eyhester", "Moria", "Clison" ]
 	},
 	{
@@ -124,5 +124,113 @@
 		"innerColor": [255,255,255],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["rename ammar"]
-	}
+	},
+	{
+		"name": "Yafroisia",
+		"leaderName": "Sultan Aeschylus Uzoma",
+		"adjective": ["Yafroisian"],
+		"preferredVictoryType": "Scientific",
+		
+		"declaringWar": "Let our foes tremble in fear at the might of our nation.",
+		"attacked": "Let us show our neighbors the price of standing against the power of our nation.",
+		"defeated": " Let us retreat for now, and strategize for our return and victory.",
+		"introduction": "We welcome our new neighbors with open arms. And we look forward to forming a long-lasting bond.",
+		"neutralHello": "Greetings and welcome to the great Sultanate of Yafroisia.",
+		"neutralLetsHearIt": "What is on your mind, good ruler?",
+		"neutralNo": "Absolutely no.",
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [255,0,0],
+		"innerColor": [255,255,255],
+		"cities": ["Alekos","Jere", "Shoabar", "Cescuyle", "Triod Spar", "Spaistein", "Noshiybar", "Cachiydan", "Cluisau", "Sniep Glia", "Ninurta", "Hesperos", "Tarasios", "Lambert", "Yaspesh","Zaglesh", "Gefros", "Lothoasia", "Whouf Whia", "Sheadan", "Broic Skaria", "Kushuyna", "Snaosau", "Ufrary", "Kutroagua", "Aprington", "Jodocus", "Draoi Thyae", "Tabassum", "Noshiyna", "Zuflurg", "Nikodemos", "Aniketos", "Ailill", "Tiyamike" ]
+	},
+	{
+		"name": "Fluobar",
+		"leaderName": "Raban Mstislav",
+		"adjective": ["Fluobarese"],
+		"preferredVictoryType": "Scientific",
+		
+		"declaringWar": "Together, we shall overthrow the evil rulers and reclaim our freedom.",
+		"attacked": " Let us stand strong and fight back, and let our leaders know that we shall not waver in the face of adversity.",
+		"defeated": "It wasn't supposed to end this way.",
+		"introduction": "We hope to establish friendly relations with you, and work together for a better future.",
+		"neutralHello": "Greetings",
+		"neutralLetsHearIt": "What is on your mind?",
+		"neutralNo": "Absolutely no.",
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "What do you think?",
+
+		"outerColor": [42,173,175],
+		"innerColor": [255,255,255],
+		"cities": ["Aroldo","Patricio", "Murdo", "Marian", "Jahangir", "Secundinus", "Perseus", "Percival", "Hermógenes", "Kaneonuskatew", "Asar", "Dominik", "Boshustan", "Eskya", "Hildimar","Prometheus", "Evgeniy", "Romulus", "Volodimeru", "Hermolaos", "Huckleberry", "Bartoloměj", "Sindri", "Prual Prington", "Pyrrhos", "Chobin", "Deskiaqua", "Chikumbutso", "Eutimio", "Bahram", "Fesmeiria", "Vawhines", "Ansoald", "Nicolás", "Alkaios" ]
+	},
+	{
+		"name": "Fluobar",
+		"leaderName": "Raban Mstislav",
+		"adjective": ["Fluobarese"],
+		"preferredVictoryType": "Scientific",
+		
+		"declaringWar": "Together, we shall overthrow the evil rulers and reclaim our freedom.",
+		"attacked": " Let us stand strong and fight back, and let our leaders know that we shall not waver in the face of adversity.",
+		"defeated": "It wasn't supposed to end this way.",
+		"introduction": "We hope to establish friendly relations with you, and work together for a better future.",
+		"neutralHello": "Greetings",
+		"neutralLetsHearIt": "What is on your mind?",
+		"neutralNo": "Absolutely no.",
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "What do you think?",
+
+		"outerColor": [42,173,175],
+		"innerColor": [255,255,255],
+		"cities": ["Aroldo","Patricio", "Murdo", "Marian", "Jahangir", "Secundinus", "Perseus", "Percival", "Hermógenes", "Kaneonuskatew", "Asar", "Dominik", "Boshustan", "Eskya", "Hildimar","Prometheus", "Evgeniy", "Romulus", "Volodimeru", "Hermolaos", "Huckleberry", "Bartoloměj", "Sindri", "Prual Prington", "Pyrrhos", "Chobin", "Deskiaqua", "Chikumbutso", "Eutimio", "Bahram", "Fesmeiria", "Vawhines", "Ansoald", "Nicolás", "Alkaios" ]
+	},
+	{
+		"name": "Pustraustein",
+		"leaderName": "Mavuto Hammu-Rapi",
+		"adjective": ["Pustrausteinese"],
+		"preferredVictoryType": "Scientific",
+		
+		"declaringWar": "Together, we shall overthrow the evil rulers and reclaim our freedom.",
+		"attacked": " Let us stand strong and fight back, and let our leaders know that we shall not waver in the face of adversity.",
+		"defeated": "It wasn't supposed to end this way.",
+		"introduction": "We hope to establish friendly relations with you, and work together for a better future.",
+		"neutralHello": "Greetings",
+		"neutralLetsHearIt": "What is on your mind?",
+		"neutralNo": "Absolutely no.",
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "What do you think?",
+
+		"outerColor": [255,186,10],
+		"innerColor": [10,105,255], //Dominik replace
+		"cities": ["Sabahattin","Samo", "Barnaba", "Sanjeev", "Basileios", "Napoleone", "Daniyal", "Hauke", "Gottlieb", "Gotthold", "Reinhardt", "Dominik", "Boshustan", "Eskya", "Hildimar","Prometheus", "Evgeniy", "Romulus", "Volodimeru", "Hermolaos", "Huckleberry", "Bartoloměj", "Sindri", "Prual Prington", "Pyrrhos", "Chobin", "Deskiaqua", "Chikumbutso", "Eutimio", "Bahram", "Fesmeiria", "Vawhines", "Ansoald", "Nicolás", "Alkaios" ]
+	},
 ]
