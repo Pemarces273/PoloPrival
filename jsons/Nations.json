@@ -58,7 +58,7 @@
 		"outerColor": [49,49,49],
 		"innerColor": [11,107,60],
 		"uniqueName": "Lost Technology",
-		"uniques": ["[-50]% Gold cost of acquiring tiles [in all cities]", "[+3 Production] [in all cities]", "[+35]% Production when constructing [Culture] wonders [in all cities]"] 
+		"uniques": ["[+50]% Gold cost of acquiring tiles [in all cities]", "[+3 Production] [in all cities]", "[+35]% Production when constructing [Culture] wonders [in all cities]"] 
 		"cities": ["Drurville","Iyhuacaster", "Dohrough", "Khita", "Jaclens", "Antawood", "Qiediff", "Veville", "Glanta", "Anedon", "Fraka", "Eimsall", "Cragend", "Idogan", "Tradcaster","Krouver", "Oseuby", "Trares", "Oriarith", "Encedon", "Klemouth", "Entoross", "Esabury", "Epeyfield", "Fuibus", "Strumport", "Zochester", "Churg", "Ouissey", "Chuemshire", "Asostead", "Yulbury", "Eyhester", "Moria", "Clison" ]
 	},
 	{
