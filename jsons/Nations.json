@@ -233,4 +233,31 @@
 		"innerColor": [10,105,255], //Dominik replace
 		"cities": ["Sabahattin","Samo", "Barnaba", "Sanjeev", "Basileios", "Napoleone", "Daniyal", "Hauke", "Gottlieb", "Gotthold", "Reinhardt", "Pierrette", "Garbi", "Vladislav", "Prasad","Camillus", "Michaela", "Heidrun", "Enkhtuya", "Nevena", "Maïwenn", "Adile", "Childeric", "Hildur", "Kallippos", "Yechezkel", "Rolland", "Petra", "Samuela", "Puneet", "Georgene", "Brennus", "Abessalom", "Teunis", "Iusta" ]
 	},
+	{
+		"name": "Cloel Drela",
+		"leaderName": "Barabal Findlay",
+		"adjective": ["Marinese"],
+		"preferredVictoryType": "Scientific",
+		
+		"declaringWar": "Together, we shall overthrow the evil rulers and reclaim our freedom.",
+		"attacked": " Let us stand strong and fight back, and let our leaders know that we shall not waver in the face of adversity.",
+		"defeated": "It wasn't supposed to end this way.",
+		"introduction": "We hope to establish friendly relations with you, and work together for a better future.",
+		"neutralHello": "Greetings",
+		"neutralLetsHearIt": "What is on your mind?",
+		"neutralNo": "Absolutely no.",
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "What do you think?",
+
+		"outerColor": [255,255,255],
+		"innerColor": [10,105,255], //Dominik replace
+		"cities": ["Tòmas","Frangag", "Dòmhnall", "Neilina", "Tòmas", "Findlay", "Eachann", "Sìne", "Hamish", "Maoilios", "Malcolm", "Moyra", "Ruaridh", "Artair", "Wallace","Raghnaid", "Seòras", "Elspet", "Kenneth", "Moray", "Caitrìona", "Ronald", "Aonghas", "Ciorstaidh", "Maisie", "Scot", "Keith", "Farquhar", "Seonag", "Heckie", "Scot", "Alan", "Aulay", "Muireall", "Naomhán" ]
+	},
 ]
