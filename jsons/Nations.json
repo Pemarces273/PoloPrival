@@ -260,4 +260,87 @@
 		"innerColor": [10,105,255], //Dominik replace
 		"cities": ["Tòmas","Frangag", "Dòmhnall", "Neilina", "Tòmas", "Findlay", "Eachann", "Sìne", "Hamish", "Maoilios", "Malcolm", "Moyra", "Ruaridh", "Artair", "Wallace","Raghnaid", "Seòras", "Elspet", "Kenneth", "Moray", "Caitrìona", "Ronald", "Aonghas", "Ciorstaidh", "Maisie", "Scot", "Keith", "Farquhar", "Seonag", "Heckie", "Scot", "Alan", "Aulay", "Muireall", "Naomhán" ]
 	},
+	{
+		"name": "Oclein",
+		"leaderName": "Domenic Cammie",
+		"adjective": ["Cleinese"],
+		"preferredVictoryType": "Scientific",
+		
+		"declaringWar": "Together, we shall overthrow the evil rulers and reclaim our freedom.",
+		"attacked": " Let us stand strong and fight back, and let our leaders know that we shall not waver in the face of adversity.",
+		"defeated": "It wasn't supposed to end this way.",
+		"introduction": "We hope to establish friendly relations with you, and work together for a better future.",
+		"neutralHello": "Greetings",
+		"neutralLetsHearIt": "What is on your mind?",
+		"neutralNo": "Absolutely no.",
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "What do you think?",
+
+		"outerColor": [255,255,255],
+		"innerColor": [255,186,10], //Dominik replace
+		"cities": ["Caelan","Claudia", "Domenic", "Cammie", "Darcie", "Terance", "Teddy", "Quinten", "Nelly", "Winfield", "Nell", "Melanie", "Ella", "Geralyn", "Elenora","Vonda", "Wynona", "Alexander", "Taryn", "Houston", "Chrystal", "Rowley", "Frankie", "Randi", "Marnie", "Emmie", "Zachery", "Gwenda", "Stafford", "Macauley", "Magdalen", "Denton", "Kristin", "Grover", "Phyliss" ]
+		
+	},
+	{
+		"name": "Creyla",
+		"leaderName": "Velda Nelle",
+		"adjective": ["Creyla"],
+		"preferredVictoryType": "Scientific",
+		
+		"declaringWar": "Together, we shall overthrow the evil rulers and reclaim our freedom.",
+		"attacked": " Let us stand strong and fight back, and let our leaders know that we shall not waver in the face of adversity.",
+		"defeated": "It wasn't supposed to end this way.",
+		"introduction": "We hope to establish friendly relations with you, and work together for a better future.",
+		"neutralHello": "Greetings",
+		"neutralLetsHearIt": "What is on your mind?",
+		"neutralNo": "Absolutely no.",
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "What do you think?",
+
+		"outerColor": [55,66,132],
+		"innerColor": [181,181,181], //Dominik replace
+		"cities": ["Jewell","Wendell", "Dorian", "Willie", "Posy", "Roxana", "Avis", "Kermit", "Cherry", "Rose", "Trista", "Zandra", "Cassandra", "Daniela", "Bella","Madonna", "Laraine", "Rhodes", "Harding", "Lorin", "Curtis", "Elizabethe", "Diane", "Freda", "Rudeous", "Lucille", "Alease", "Spencer", "Linette", "Brooke", "Myra", "Nathaniel", "Brion", "Woodrow", "Roscoe" ]
+	},
+	{
+		"name": "Freir Thya",
+		"leaderName": "Velda Nelle",
+		"adjective": ["Creyla"],
+		"preferredVictoryType": "Scientific",
+		
+		"declaringWar": "Together, we shall overthrow the evil rulers and reclaim our freedom.",
+		"attacked": " Let us stand strong and fight back, and let our leaders know that we shall not waver in the face of adversity.",
+		"defeated": "It wasn't supposed to end this way.",
+		"introduction": "We hope to establish friendly relations with you, and work together for a better future.",
+		"neutralHello": "Greetings",
+		"neutralLetsHearIt": "What is on your mind?",
+		"neutralNo": "Absolutely no.",
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "What do you think?",
+
+		"outerColor": [60,94,31],
+		"innerColor": [255,255,255], //Dominik replace
+		"cities": ["Thornton","Eden", "Oakley", "Jasmine", "Averill", "Abigale", "Kirrily", "Ralphie", "Joetta", "Kiley", "Aaron", "Jaxson", "Gale", "Axson", "Averuy","Turuntu", "Madegas", "Madegaz", "Harding", "Bentleye", "Fultton", "Aeretha", "Houlden", "Brynlee", "Flossie", "Emely", "Danita", "Brande", "Gemma", "Britannia", "Kyro", "Mekaulay", "Elise", "Nevaeh", "Remev" ]
+	}
+	
 ]
