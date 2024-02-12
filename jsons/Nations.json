@@ -95,7 +95,7 @@
 	},
 	{
 		"name": "Marley",
-		"leaderName": "Otto Von Bismarck",
+		"leaderName": "Willy Tybur",
 		"adjective": ["Marleyan"],
 		"preferredVictoryType": "Scientific",
 		
@@ -123,7 +123,7 @@
 		"outerColor": [26,88,26],
 		"innerColor": [255,255,255],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["rename ammar"]
+		"cities": ["Bernadette", "Hildegard", "Regula", "Dagmar", "Elise", "Helga", "Svenja", "Walpurga", "Salome", "Ortrun", "Marianne", "Marcella", "Liese", "Konstanze", "Magdalena", "Liesl", "Selma", "Dietlinde", "Margit", "Ribelio"]
 	},
 	{
 		"name": "Yafroisia",
