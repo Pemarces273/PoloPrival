@@ -1,17 +1,17 @@
 [
 	{
-		"name": "Pruyze",
-		"leaderName": "Abdul Yazid",
-		"adjective": ["Pruyzenese"],
-		"preferredVictoryType": "Scientific",
+		"name": "Maglein",
+		"leaderName": "Zinovy Maksimilian",
+		"adjective": ["Maglian"],
+		"preferredVictoryType": "Diplomatic",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "I, representative from Pruyze wants every nation to be peace. We all wish that we can get along well",
+		//"startIntroPart1": "We come in peace!",
+		//"startIntroPart2": "I, representative from Pruyze wants every nation to be peace. We all wish that we can get along well",
 		
-		"declaringWar": " 'Let there be bloodshed among us' ",
-		"attacked": "Outstanding move, kind sir.",
-		"defeated": "Nearby future, you will be defeated from your gruesome acts that deserves hell upon you forever.",
-		"introduction": "Hello, I am a representative from Pruyze and would hope that we'll get along well and achieve profit together.",
+		"declaringWar": "'We stand united...ready and prepared to go to war in order to protect our citizens and uphold the values that built our great nation.'",
+		"attacked": "'We will prevail and emerge victorious.'",
+		"defeated": "'War will be waged until our sovereignty is recognized and our territory is rightfully claimed.'",
+		"introduction": "'Oh, nice to meet you. Just passing through.'",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
@@ -23,29 +23,29 @@
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "My people stand with me in this struggle and will not rest until victory is ours.",
+		"tradeRequest": "'What do you say? Good deal, ain't it?'",
 
 		"outerColor": [26,39,88],
 		"innerColor": [255,255,255],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["rename yazid"]
+		"cities": ["Roskov", "Artyom", "Gropham", "Rozkha", "Sukharenov", "Ahmedikov", "Yazidunik", "Raveduvich"]
 	},
 	{
-		"name": "Sylveria",
-		"leaderName": "Commander Arina Ekaterina",
-		"adjective": ["Sylverianese"],
+		"name": "Yodrea",
+		"leaderName": "Tarō Noriaki",
+		"adjective": ["Yodranese"],
 		"preferredVictoryType": "Scientific",
 		
-		"declaringWar": "Today, the great nation of Sylveria has declared war against you, not because we are afraid or threatened, but because we seek to prove our martial might and test our courage in battle. We declare this war for the thrill of it, and for the glory, excitement, and honor that come with it. Let us prove ourselves on the world stage, and let our enemies tremble in fear at the very sound of our name.",
-		"attacked": "How surprising, another attack on our nation. It's almost as if our enemies can't leave us alone and enjoy their own peace and prosperity.",
-		"defeated": "With a heavy heart, I admit to the defeat of our nation in this war. Our enemy has proven too strong and too determined, and despite our best efforts, we must concede and accept the terms of surrender.",
-		"introduction": "Well, look at you. What a quaint little nation you have there, not quite as grand as ours. It must be a challenge leading such a miniscule group of people. I'm surprised your land can even support such a population. Oh well, who am I to judge?",
+		"declaringWar": "'Stand with me in this fight against the enemy.'",
+		"attacked": "'Let us rise and ready ourselves for a battle that we must win, for our futures depend on the outcome'",
+		"defeated": "'We resign ourselves to the mercy of the enemy and submit to their terms.'",
+		"introduction": "Oh, hello. Don't attack me. I'm friendly and I am just passing through...",
 		
-		"neutralHello": "Hello, small fry. Oh, I meant hello, you insignificant little insect. Do I have the pleasure of addressing the leader of this insufferable little nation?",
-		"neutralLetsHearIt": "You better have a good reason for wasting our time.",
-		"neutralNo": "Get lost.",
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": "Sure.",
+		"neutralNo": "No.",
+		"neutralYes": ["Very well."],
 
 		"hateHello": "What do you want now?",
 		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
@@ -57,9 +57,8 @@
 
 		"outerColor": [49,49,49],
 		"innerColor": [11,107,60],
-		"uniqueName": "Lost Technology",
-		"uniques": ["[-50]% Gold cost of acquiring tiles [in all cities]", "[+3 Production] [in all cities]", "[+35]% Production when constructing [Culture] wonders [in all cities]"] 
-		"cities": ["Drurville","Iyhuacaster", "Dohrough", "Khita", "Jaclens", "Antawood", "Qiediff", "Veville", "Glanta", "Anedon", "Fraka", "Eimsall", "Cragend", "Idogan", "Tradcaster","Krouver", "Oseuby", "Trares", "Oriarith", "Encedon", "Klemouth", "Entoross", "Esabury", "Epeyfield", "Fuibus", "Strumport", "Zochester", "Churg", "Ouissey", "Chuemshire", "Asostead", "Yulbury", "Eyhester", "Moria", "Clison" ]
+		"unique": "MANIFEST_DESTINY",
+		"cities": [ "Shōhei", "Yoshimitsu", "Tatsuya", "Katsurou", "Keita", "Akio", "Katsu", "Jūrō", "Noriaki", "Masao", "Masaharu", "Yamato", "Kazuhiko", "Gorou", "Nobuyuki", "Isamu", "Fumio", "Fumiko", "Mitaka", "Hayakawa", "Satoshi", "Yūta", "Shinji", "Shinichi" ]
 	},
 	{
 		"name": "Cynoc",
@@ -94,30 +93,30 @@
 		"cities": ["rename paul"]
 	},
 	{
-		"name": "Marley",
-		"leaderName": "Willy Tybur",
-		"adjective": ["Marleyan"],
-		"preferredVictoryType": "Scientific",
+		"name": "Rocros",
+		"leaderName": "Noah Meinhard",
+		"adjective": ["Rocroation"],
+		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "Welcome, my friend.",
-		"startIntroPart2": "Remember, no witnesses. I mean, hello, we come in peace!",
+	//	"startIntroPart1": "Welcome, my friend.",
+	//	"startIntroPart2": "Remember, no witnesses. I mean, hello, we come in peace!",
 		
-		"declaringWar": " 'It is an eyesore to see you prosper, I shall destabillize you.' ",
-		"attacked": "Stop facing in my direction!",
-		"defeated": "I'm about to shove some stuff up your asshole!",
-		"introduction": "I hope you cease from existence",
+		"declaringWar": " 'We will vanquish our enemies and show them the true meaning of power.'",
+		"attacked": "'Enough is enough!'",
+		"defeated": "'We will not rest until we have achieved total victory!'",
+		"introduction": "'Just a friendly individual passing by...'",
 		
-		"neutralHello": "What's good, my ni-",
-		"neutralLetsHearIt": ["What did you just say","I'm all ears."],
-		"neutralNo": ["Did I stutter?","Mind repeating it?","I couldn't hear you."],
-		"neutralYes": ["Alright.","I'm in.", "(In sultry voice) Good, good."],
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
-		"hateHello": "Hey there.",
-		"hateLetsHearIt": ["You got 5 minutes, 10 if I'm in the mood.","Whatever you're saying will enter my left ear and will go out my right one, but I'll hear you out anyway.","Alright, what do you want?"],
-		"hateNo": ["What the f--- did you just say?","F--- off, you massive collosal cuntasaurus","You're a traitor to the Marleyan Empire!"],
-		"hateYes": ["You better be right on this. If not, I will summon the citizen of the Marleyan Empire to c-- on your corpse!","This better be a good decision."],
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		"afterPeace": "Thank you, finally! Took you long enough, Jesus",
+		"afterPeace": "'We will fight until the last breath! We swore that we will turn things around in the future!'",
 		"tradeRequest": "Got something that might interest ya!",
 
 		"outerColor": [26,88,26],
@@ -126,18 +125,19 @@
 		"cities": ["Bernadette", "Hildegard", "Regula", "Dagmar", "Elise", "Helga", "Svenja", "Walpurga", "Salome", "Ortrun", "Marianne", "Marcella", "Liese", "Konstanze", "Magdalena", "Liesl", "Selma", "Dietlinde", "Margit", "Ribelio"]
 	},
 	{
-		"name": "Yafroisia",
-		"leaderName": "Sultan Aeschylus Uzoma",
-		"adjective": ["Yafroisian"],
-		"preferredVictoryType": "Scientific",
+		"name": "Achesh",
+		"leaderName": "Thamir Husayn Salih Arif",
+		"adjective": ["Achesian"],
+		"preferredVictoryType": "Time",
 		
-		"declaringWar": "Let our foes tremble in fear at the might of our nation.",
-		"attacked": "Let us show our neighbors the price of standing against the power of our nation.",
-		"defeated": " Let us retreat for now, and strategize for our return and victory.",
-		"introduction": "We welcome our new neighbors with open arms. And we look forward to forming a long-lasting bond.",
-		"neutralHello": "Greetings and welcome to the great Sultanate of Yafroisia.",
-		"neutralLetsHearIt": "What is on your mind, good ruler?",
-		"neutralNo": "Absolutely no.",
+		"declaringWar": "'We must act with determination and resolve to safeguard our interests and protect our people.'",
+		"attacked": "'My people are ready, and I am determined to see this fight through until the end. '",
+		"defeated": "'For now, our cause is lost, and we must resign ourselves to our fate.'",
+		"introduction": "Leave me alone and I'll let you be. I'm just passing through..",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
 		"hateHello": "What do you want now?",
@@ -145,23 +145,23 @@
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"afterPeace": "'Let us look forward to better days.'",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
 		"outerColor": [255,0,0],
 		"innerColor": [255,255,255],
-		"cities": ["Alekos","Jere", "Shoabar", "Cescuyle", "Triod Spar", "Spaistein", "Noshiybar", "Cachiydan", "Cluisau", "Sniep Glia", "Ninurta", "Hesperos", "Tarasios", "Lambert", "Yaspesh","Zaglesh", "Gefros", "Lothoasia", "Whouf Whia", "Sheadan", "Broic Skaria", "Kushuyna", "Snaosau", "Ufrary", "Kutroagua", "Aprington", "Jodocus", "Draoi Thyae", "Tabassum", "Noshiyna", "Zuflurg", "Nikodemos", "Aniketos", "Ailill", "Tiyamike" ]
+		"cities": ["Alekos","Faizel", "Burhan", "Ebrahim", "Saeed", "Husam", "I'timad", "Jinan", "Najeeb", "Ismaeel", "Zayd", "Midhat", "Younes", "Shams al-Din Sa'id", "Mahmoud","Miraj", "Farag", "Abduh", "Haider", "'Ammar", "Jaouad", "Murtada", "Bassem", "Amna", "Fakhriyya", "Basira", "Masoud", "Ramlah", "Zoubida", "Safaa", "Bahija", "Sabri", "Mubira", "Zoubida", "Burhanuddin" ]
 	},
 	{
-		"name": "Fluobar",
-		"leaderName": "Raban Mstislav",
-		"adjective": ["Fluobarese"],
-		"preferredVictoryType": "Scientific",
+		"name": "Stington",
+		"leaderName": "Myrna Aoibhe",
+		"adjective": ["English"],
+		"preferredVictoryType": "Cultural",
 		
-		"declaringWar": "Together, we shall overthrow the evil rulers and reclaim our freedom.",
-		"attacked": " Let us stand strong and fight back, and let our leaders know that we shall not waver in the face of adversity.",
-		"defeated": "It wasn't supposed to end this way.",
-		"introduction": "We hope to establish friendly relations with you, and work together for a better future.",
+		"declaringWar": "'My people, stand with me, and together we will prevail!'",
+		"attacked": "'I have heard the call, and I am prepared to fight.'",
+		"defeated": "'Our honor has been tarnished, and our pride remains battered'",
+		"introduction": "Just passing by!",
 		"neutralHello": "Greetings",
 		"neutralLetsHearIt": "What is on your mind?",
 		"neutralNo": "Absolutely no.",
@@ -172,7 +172,7 @@
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"afterPeace": "' I now surrender myself to the enemy, in the hope that my surrender will prevent further bloodshed and bring peace to our lands.'",
 		"tradeRequest": "What do you think?",
 
 		"outerColor": [42,173,175],
@@ -183,7 +183,7 @@
 		"name": "Lino",
 		"leaderName": "António Hanna",
 		"adjective": ["Linoise"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Diplomatic",
 		
 		"declaringWar": "Together, we shall overthrow the evil rulers and reclaim our freedom.",
 		"attacked": " Let us stand strong and fight back, and let our leaders know that we shall not waver in the face of adversity.",
@@ -210,7 +210,7 @@
 		"name": "Pustraustein",
 		"leaderName": "Mavuto Hammu-Rapi",
 		"adjective": ["Pustrausteinese"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Cultural",
 		
 		"declaringWar": "Together, we shall overthrow the evil rulers and reclaim our freedom.",
 		"attacked": " Let us stand strong and fight back, and let our leaders know that we shall not waver in the face of adversity.",
@@ -237,7 +237,7 @@
 		"name": "Cloel Drela",
 		"leaderName": "Barabal Findlay",
 		"adjective": ["Marinese"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Domination",
 		
 		"declaringWar": "Together, we shall overthrow the evil rulers and reclaim our freedom.",
 		"attacked": " Let us stand strong and fight back, and let our leaders know that we shall not waver in the face of adversity.",
@@ -264,7 +264,7 @@
 		"name": "Oclein",
 		"leaderName": "Domenic Cammie",
 		"adjective": ["Cleinese"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Time",
 		
 		"declaringWar": "Together, we shall overthrow the evil rulers and reclaim our freedom.",
 		"attacked": " Let us stand strong and fight back, and let our leaders know that we shall not waver in the face of adversity.",
@@ -292,7 +292,7 @@
 		"name": "Creyla",
 		"leaderName": "Velda Nelle",
 		"adjective": ["Creyla"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Diplomatic",
 		
 		"declaringWar": "Together, we shall overthrow the evil rulers and reclaim our freedom.",
 		"attacked": " Let us stand strong and fight back, and let our leaders know that we shall not waver in the face of adversity.",
