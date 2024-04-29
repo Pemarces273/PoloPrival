@@ -5,8 +5,7 @@
 		"adjective": ["Maglian"],
 		"preferredVictoryType": "Diplomatic",
 		
-		//"startIntroPart1": "We come in peace!",
-		//"startIntroPart2": "I, representative from Pruyze wants every nation to be peace. We all wish that we can get along well",
+		"startIntroPart1": "Your goal is to build the UN Station to win. Do anything you want that is necessary to achieve your utmost goal of this game",
 		
 		"declaringWar": "'We stand united...ready and prepared to go to war in order to protect our citizens and uphold the values that built our great nation.'",
 		"attacked": "'We will prevail and emerge victorious.'",
@@ -129,6 +128,8 @@
 		"leaderName": "Thamir Husayn Salih Arif",
 		"adjective": ["Achesian"],
 		"preferredVictoryType": "Time",
+
+		"startIntroPart1": "Your goal is to survive until 900 turns to win. Do anything you want that is necessary to achieve your utmost goal of this game",
 		
 		"declaringWar": "'We must act with determination and resolve to safeguard our interests and protect our people.'",
 		"attacked": "'My people are ready, and I am determined to see this fight through until the end. '",
@@ -157,6 +158,8 @@
 		"leaderName": "Myrna Aoibhe",
 		"adjective": ["English"],
 		"preferredVictoryType": "Cultural",
+
+				"startIntroPart1": "Your goal is to max out five policies to win. Do anything you want that is necessary to achieve your utmost goal of this game",
 		
 		"declaringWar": "'My people, stand with me, and together we will prevail!'",
 		"attacked": "'I have heard the call, and I am prepared to fight.'",
@@ -184,6 +187,8 @@
 		"leaderName": "António Hanna",
 		"adjective": ["Linoise"],
 		"preferredVictoryType": "Diplomatic",
+
+				"startIntroPart1": "Your goal is to build the UN Station to win. Do anything you want that is necessary to achieve your utmost goal of this game",
 		
 		"declaringWar": "Together, we shall overthrow the evil rulers and reclaim our freedom.",
 		"attacked": " Let us stand strong and fight back, and let our leaders know that we shall not waver in the face of adversity.",
@@ -211,6 +216,8 @@
 		"leaderName": "Mavuto Hammu-Rapi",
 		"adjective": ["Pustrausteinese"],
 		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": "Your goal is to max out five policies to win. Do anything you want that is necessary to achieve your utmost goal of this game",
 		
 		"declaringWar": "Together, we shall overthrow the evil rulers and reclaim our freedom.",
 		"attacked": " Let us stand strong and fight back, and let our leaders know that we shall not waver in the face of adversity.",
@@ -238,6 +245,8 @@
 		"leaderName": "Barabal Findlay",
 		"adjective": ["Marinese"],
 		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Your goal is capture ALL capitals. Do anything you want that is necessary to achieve your utmost goal of this game",
 		
 		"declaringWar": "Together, we shall overthrow the evil rulers and reclaim our freedom.",
 		"attacked": " Let us stand strong and fight back, and let our leaders know that we shall not waver in the face of adversity.",
@@ -265,6 +274,8 @@
 		"leaderName": "Domenic Cammie",
 		"adjective": ["Cleinese"],
 		"preferredVictoryType": "Time",
+
+		"startIntroPart1": "Your goal is to survive until 900 turns to win. Do anything you want that is necessary to achieve your utmost goal of this game",
 		
 		"declaringWar": "Together, we shall overthrow the evil rulers and reclaim our freedom.",
 		"attacked": " Let us stand strong and fight back, and let our leaders know that we shall not waver in the face of adversity.",
@@ -293,6 +304,8 @@
 		"leaderName": "Velda Nelle",
 		"adjective": ["Creyla"],
 		"preferredVictoryType": "Diplomatic",
+
+		"startIntroPart1": "Your goal is to build the UN station to win. Do anything you want that is necessary to achieve your utmost goal of this game",
 		
 		"declaringWar": "Together, we shall overthrow the evil rulers and reclaim our freedom.",
 		"attacked": " Let us stand strong and fight back, and let our leaders know that we shall not waver in the face of adversity.",
@@ -320,6 +333,8 @@
 		"leaderName": "Velda Nelle",
 		"adjective": ["Creyla"],
 		"preferredVictoryType": "Scientific",
+
+		"startIntroPart1": "Your goal is to build a spaceship to win. Do anything you want that is necessary to achieve your utmost goal of this game",
 		
 		"declaringWar": "Together, we shall overthrow the evil rulers and reclaim our freedom.",
 		"attacked": " Let us stand strong and fight back, and let our leaders know that we shall not waver in the face of adversity.",
