@@ -35,6 +35,8 @@
 		"leaderName": "Tarō Noriaki",
 		"adjective": ["Yodranese"],
 		"preferredVictoryType": "Scientific",
+
+		"startIntroPart1": "Your goal is to build a spaceship to win. Do anything you want that is necessary to achieve your utmost goal of this game",
 		
 		"declaringWar": "'Stand with me in this fight against the enemy.'",
 		"attacked": "'Let us rise and ready ourselves for a battle that we must win, for our futures depend on the outcome'",
@@ -96,6 +98,8 @@
 		"leaderName": "Noah Meinhard",
 		"adjective": ["Rocroation"],
 		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Your goal is to capture ALL capital cities of other nations to win. Do anything you want that is necessary to achieve your utmost goal of this game",
 		
 	//	"startIntroPart1": "Welcome, my friend.",
 	//	"startIntroPart2": "Remember, no witnesses. I mean, hello, we come in peace!",
