@@ -1,55 +1,36 @@
 [
-{
-  "name": "Zyrenian East Altharva Company",
-  "adjective": "Zyrenian",
-  "startBias": ["Coast", "River"],
-  "preferredVictoryType": "Economic",
-  "uniques": [
-    "Trade routes generate +2 Gold and +1 Production",
-    "+1 additional Trade Route capacity per Era",
-    "Units heal +5 HP per turn in friendly territory"
-  ],
-  "cities": [
-    "Altharva",
-    "Port Zyren",
-    "Silverhaven",
-    "Mercadia",
-    "Eastwynd",
-    "Tradeforge",
-    "Goldspan",
-    "Azure Reach",
-    "Commerce Point",
-    "Verdant Isle"
-  ],
-  "cityStates": [
-    "New Zyrenia",
-    "South Altharva",
-    "West Mercadia"
-  ],
-  "specialUnit": {
-    "name": "Zyrenian Privateer",
-    "replaces": "Privateer",
-    "abilities": [
-      "Can capture enemy ships",
-      "+1 Movement",
-      "+25% Combat Strength in coastal tiles"
-    ]
-  },
-  "specialBuilding": {
-    "name": "Altharvan Trade Hub",
-    "replaces": "Market",
-    "abilities": [
-      "+2 Gold from Trade Routes",
-      "+1 Science for every Trade Route connected to a City-State"
-    ]
-  },
-  "icon": {
-    "foreground": "gold",
-    "background": "darkblue"
-  }
-}
-
+	{
+	"name": "Zyrenian East Altharva Company",
+	"leaderName": "Director Liana Zyren",
+	"adjective": ["Zyrenian"],
+	"preferredVictoryType": "Economic",
 	
+	"startIntroPart1": "Your mission is to establish a dominant trade network and amass wealth. Use your commercial power to shape the world and outmaneuver your rivals economically.",
+	
+	"declaringWar": "'For the prosperity of Zyrenia, we have no choice but to engage. May the markets favor us.'",
+	"attacked": "'An attack on us is an attack on free enterprise. You will regret this.'",
+	"defeated": "'Our company will endure. This is merely a financial setback.'",
+	"introduction": "'Greetings, traveler. Have you come to discuss business opportunities?'",
+	
+	"neutralHello": "Welcome, fellow trader.",
+	"neutralLetsHearIt": ["Speak your terms.","What do you propose?","Go ahead, we're listening."],
+	"neutralNo": ["That won't work for us.","We must decline.","This deal is unacceptable."],
+	"neutralYes": ["A lucrative proposal.","We can agree to that.","Consider it done."],
+
+	"hateHello": "What now? Do you seek to hinder progress?",
+	"hateLetsHearIt": ["Get to the point.","Let's hear it.","Speak, but be brief."],
+	"hateNo": ["Absolutely not!","That would ruin us!","You must be joking."],
+	"hateYes": ["If we must.","Agreed, begrudgingly.","Fine, but only because it suits us."],
+	
+	"afterPeace": "The markets have spoken, and peace is once again profitable.",
+	"tradeRequest": "'This will benefit both parties. What do you think?'",
+
+	"outerColor": [44,62,80],
+	"innerColor": [241,196,15],
+	"unique": "TRADE_DOMINANCE",
+	"cities": ["Altharva", "Port Zyren", "Silverhaven", "Mercadia", "Eastwynd", "Tradeforge", "Goldspan", "Azure Reach"]
+},
+
 	{
 		"name": "Maglein",
 		"leaderName": "Zinovy Maksimilian",
