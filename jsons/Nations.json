@@ -27,8 +27,8 @@
 
 	"outerColor": [44,62,80],
 	"innerColor": [241,196,15],
-		"uniqueName": "Global & Open Market",
-	"uniques": ["[+20]% [Gold]", "[+10]% Production when constructing [Gold] buildings [in all cities]", "[+2 Production] per [3] population [in all cities]" ],
+		"uniqueName": "Deserter & Black Market Effect",
+	"uniques": ["[+20]% [Gold]", "[+10]% Production when constructing [Gold] buildings [in all cities]", "[+2 Production] per [3] population [in all cities]", "[15]% Production when constructing [Air] units [in all cities connected to capital]", "[15]% Production when constructing [Water] units [in all coastal cities]", "[12]% Production when constructing [Land] units [in all cities connected to capital]"],
 	"cities": ["Altharva", "Port Zyren", "Silverhaven", "Mercadia", "Eastwynd", "Tradeforge", "Goldspan", "Azure Reach"]
 },
 
