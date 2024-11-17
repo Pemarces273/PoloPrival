@@ -3,9 +3,9 @@
 	"name": "Zyrenian East Altharva Company",
 	"leaderName": "Director Liana Zyren",
 	"adjective": ["Zyrenian"],
-	"preferredVictoryType": "Economic",
+	"preferredVictoryType": "Domination",
 	
-	"startIntroPart1": "Your mission is to establish a dominant trade network and amass wealth. Use your commercial power to shape the world and outmaneuver your rivals economically.",
+	"startIntroPart1": "Your mission is to build an empire through conquest and trade, leveraging your commercial might to fuel military expansion and outmaneuver your rivals on both fronts.",
 	
 	"declaringWar": "'For the prosperity of Zyrenia, we have no choice but to engage. May the markets favor us.'",
 	"attacked": "'An attack on us is an attack on free enterprise. You will regret this.'",
