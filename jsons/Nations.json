@@ -1,4 +1,55 @@
 [
+{
+  "name": "Zyrenian East Altharva Company",
+  "adjective": "Zyrenian",
+  "startBias": ["Coast", "River"],
+  "preferredVictoryType": "Economic",
+  "uniques": [
+    "Trade routes generate +2 Gold and +1 Production",
+    "+1 additional Trade Route capacity per Era",
+    "Units heal +5 HP per turn in friendly territory"
+  ],
+  "cities": [
+    "Altharva",
+    "Port Zyren",
+    "Silverhaven",
+    "Mercadia",
+    "Eastwynd",
+    "Tradeforge",
+    "Goldspan",
+    "Azure Reach",
+    "Commerce Point",
+    "Verdant Isle"
+  ],
+  "cityStates": [
+    "New Zyrenia",
+    "South Altharva",
+    "West Mercadia"
+  ],
+  "specialUnit": {
+    "name": "Zyrenian Privateer",
+    "replaces": "Privateer",
+    "abilities": [
+      "Can capture enemy ships",
+      "+1 Movement",
+      "+25% Combat Strength in coastal tiles"
+    ]
+  },
+  "specialBuilding": {
+    "name": "Altharvan Trade Hub",
+    "replaces": "Market",
+    "abilities": [
+      "+2 Gold from Trade Routes",
+      "+1 Science for every Trade Route connected to a City-State"
+    ]
+  },
+  "icon": {
+    "foreground": "gold",
+    "background": "darkblue"
+  }
+}
+
+	
 	{
 		"name": "Maglein",
 		"leaderName": "Zinovy Maksimilian",
