@@ -59,7 +59,7 @@
 
 		"outerColor": [26,39,88],
 		"innerColor": [255,255,255],
-		"unique": "MANIFEST_DESTINY",
+		"unique": ["[+20]% [Gold]", "[+10]% Production when constructing [Gold] buildings [in all cities]", "[+2 Production] per [3] population [in all cities]" ],
 		"cities": ["Roskov", "Artyom", "Gropham", "Rozkha", "Sukharenov", "Ahmedikov", "Yazidunik", "Raveduvich"]
 	},
 	{
